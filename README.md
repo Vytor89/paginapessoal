@@ -1,2 +1,2 @@
 # paginapessoal
-uma pagina 
+uma pagina pessoal
